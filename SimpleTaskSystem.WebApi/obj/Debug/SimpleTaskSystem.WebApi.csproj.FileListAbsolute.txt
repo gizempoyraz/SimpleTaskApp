@@ -1,0 +1,2 @@
+C:\Users\29296827870\Documents\GitHub\SimpleTaskApp\SimpleTaskSystem.WebApi\obj\Debug\SimpleTaskSystem.WebApi.csproj.AssemblyReference.cache
+C:\Users\29296827870\Documents\GitHub\SimpleTaskApp\SimpleTaskSystem.WebApi\obj\Debug\SimpleTaskSystem.WebApi.csproj.CoreCompileInputs.cache
