@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\SimpleTaskSystem.Core\\Entities"
+    "\\SimpleTaskSystem.EntityFramework",
+    "\\SimpleTaskSystem.EntityFramework\\EntityFramework",
+    "\\SimpleTaskSystem.EntityFramework\\Migrations",
+    "\\SimpleTaskSystem.Web"
   ],
-  "SelectedNode": "\\SimpleTaskSystem.sln",
+  "SelectedNode": "\\SimpleTaskSystem.EntityFramework\\EntityFramework\\SimpleTaskSystemDbContext.cs",
   "PreviewInSolutionExplorer": false
 }
